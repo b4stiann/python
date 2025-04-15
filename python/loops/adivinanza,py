@@ -1,0 +1,11 @@
+#Bastian Rubilar
+#07-04-2025
+
+adivinanza = 0
+
+while adivinanza !=6:
+    adivinanza = int(input('Adivina el numero :'))
+     
+if adivinanza == 6:
+    print('Felicitaciones, adivinaste el numero!')
+    print('El numero era 6')

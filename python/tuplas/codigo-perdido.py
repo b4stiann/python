@@ -1,3 +1,5 @@
+#Bastian Rubilar
+
 #pistas = ("Puerta roja" , 221, "Londres", 3.14, "Watson",7,"Moriarty")
 
 print("¡Bienvenido, detective Holmes!")
